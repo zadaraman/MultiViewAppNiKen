@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="072b20fb-c3a7-47dc-98a7-7573866b40b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_volley_volley_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_java5_15_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____libs_EMPClient_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____libs_VerimatrixAnalticsSDK_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libDASHDRMSessionsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libDASHDRMSessionsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libHLSAES128Descramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libHLSAES128Descramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libHLSAES128Descramblewithbyterangesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libHLSAES128Descramblewithbyterangesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libHttpRetrieveStoreDataCallbackSample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libHttpRetrieveStoreDataCallbackSample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libNexHTTPDownloaderSample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libNexHTTPDownloaderSample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libPDEnvelopHeaderParsingsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libPDEnvelopHeaderParsingsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libasfplayreadydescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libasfplayreadydescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libdeceuvdescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libdeceuvdescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libdrmsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libdrmsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libempcomm-combined.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libempcomm-combined.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libgethttpauthinfosample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libgethttpauthinfosample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libgetkeyextsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libgetkeyextsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libgetpdblocksample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libgetpdblocksample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libgetplaylistinfosample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libgetplaylistinfosample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libhlsissupportkey_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libhlsissupportkey_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libhlstsdescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libhlstsdescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libhlstsdescramblewithbyterange_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libhlstsdescramblewithbyterange_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libmpddescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libmpddescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexadaptation_layer_for_dlsdk.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexadaptation_layer_for_dlsdk.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexalfactory.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexalfactory.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_3gpp_arm64-v8a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_3gpp_arm64-v8a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_aac_arm64-v8a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_aac_arm64-v8a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_amr_arm64-v8a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_amr_arm64-v8a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_amrwb_arm64-v8a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_amrwb_arm64-v8a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_closedcaption_arm64-v8a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_closedcaption_arm64-v8a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_divx_arm64-v8a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_divx_arm64-v8a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_h264_arm64-v8a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_h264_arm64-v8a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_hevc_arm64-v8a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_hevc_arm64-v8a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_in_aac_arm64-v8a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_in_aac_arm64-v8a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_in_amr_arm64-v8a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_in_amr_arm64-v8a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_ogg_arm64-v8a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_ogg_arm64-v8a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_ttml_arm64-v8a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_ttml_arm64-v8a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_webvtt_arm64-v8a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexcal_webvtt_arm64-v8a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexcralbody_mc_jb.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexcralbody_mc_jb.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexhlsaes128callbacks.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexhlsaes128callbacks.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexplayerengine.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexplayerengine.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexralbody_audio.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexralbody_audio.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexralbody_video_nw.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexralbody_video_nw.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexralbody_video_opengl.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexralbody_video_opengl.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexthumbnail.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexthumbnail.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libnexwvdrm.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libnexwvdrm.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libpiffplayreadydescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libpiffplayreadydescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libregisterdlapiexsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libregisterdlapiexsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libremotefileiosample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libremotefileiosample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libsmoothstreamfragmentdescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libsmoothstreamfragmentdescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/arm64-v8a/libsmoothstreamplayreadydescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/arm64-v8a/libsmoothstreamplayreadydescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libHLSAES128Descramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libHLSAES128Descramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libHLSAES128Descramblewithbyterangesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libHLSAES128Descramblewithbyterangesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libHttpRetrieveStoreDataCallbackSample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libHttpRetrieveStoreDataCallbackSample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libNexHTTPDownloaderSample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libNexHTTPDownloaderSample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libPDEnvelopHeaderParsingsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libPDEnvelopHeaderParsingsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libasfplayreadydescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libasfplayreadydescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libdeceuvdescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libdeceuvdescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libdrmsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libdrmsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libgethttpauthinfosample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libgethttpauthinfosample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libgetkeyextsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libgetkeyextsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libgetpdblocksample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libgetpdblocksample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libgetplaylistinfosample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libgetplaylistinfosample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libhlsissupportkey_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libhlsissupportkey_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libhlstsdescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libhlstsdescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libhlstsdescramblewithbyterange_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libhlstsdescramblewithbyterange_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libmpddescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libmpddescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexadaptation_layer_for_dlsdk.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexadaptation_layer_for_dlsdk.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexalfactory.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexalfactory.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_3gpp_arm-v7a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_3gpp_arm-v7a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_aac_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_aac_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_amr_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_amr_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_closedcaption_arm-v7a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_closedcaption_arm-v7a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_divx_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_divx_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_h264_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_h264_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_hevc_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_hevc_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_in_aac_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_in_aac_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_in_amr_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_in_amr_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_ttml_arm-v7a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_ttml_arm-v7a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_vpx_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_vpx_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_webvtt_arm-v7a.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcal_webvtt_arm-v7a.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcralbody_mc_jb.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexcralbody_mc_jb.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexhlsaes128callbacks.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexhlsaes128callbacks.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexplayerengine.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexplayerengine.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexral_nw_ics.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexral_nw_ics.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexral_nw_jb.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexral_nw_jb.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexralbody_audio.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexralbody_audio.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexralbody_video_is.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexralbody_video_is.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexralbody_video_jb.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexralbody_video_jb.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexralbody_video_nw.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexralbody_video_nw.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexralbody_video_opengl.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexralbody_video_opengl.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexthumbnail.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexthumbnail.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libnexwvdrm.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libnexwvdrm.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libpiffplayreadydescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libpiffplayreadydescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libregisterdlapiexsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libregisterdlapiexsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libremotefileiosample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libremotefileiosample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libsmoothstreamfragmentdescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libsmoothstreamfragmentdescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi-v7a/libsmoothstreamplayreadydescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libsmoothstreamplayreadydescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libHLSAES128Descramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libHLSAES128Descramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libHLSAES128Descramblewithbyterangesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libHLSAES128Descramblewithbyterangesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libHttpRetrieveStoreDataCallbackSample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libHttpRetrieveStoreDataCallbackSample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libNexHTTPDownloaderSample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libNexHTTPDownloaderSample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libPDEnvelopHeaderParsingsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libPDEnvelopHeaderParsingsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libasfplayreadydescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libasfplayreadydescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libdeceuvdescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libdeceuvdescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libdrmsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libdrmsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libgethttpauthinfosample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libgethttpauthinfosample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libgetkeyextsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libgetkeyextsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libgetpdblocksample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libgetpdblocksample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libgetplaylistinfosample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libgetplaylistinfosample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libhlsissupportkey_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libhlsissupportkey_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libhlstsdescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libhlstsdescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libhlstsdescramblewithbyterange_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libhlstsdescramblewithbyterange_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libmpddescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libmpddescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexadaptation_layer_for_dlsdk.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexadaptation_layer_for_dlsdk.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexalfactory.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexalfactory.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_3gpp.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_3gpp.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_aac_armv5.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_aac_armv5.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_aac_armv6.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_aac_armv6.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_aac_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_aac_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_amr_armv5.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_amr_armv5.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_amr_armv6.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_amr_armv6.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_amr_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_amr_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_closedcaption.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_closedcaption.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_divx_armv5.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_divx_armv5.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_divx_armv6.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_divx_armv6.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_divx_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_divx_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_h264_armv5.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_h264_armv5.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_h264_armv6.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_h264_armv6.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_h264_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_h264_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_hevc_armv5.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_hevc_armv5.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_hevc_armv6.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_hevc_armv6.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_hevc_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_hevc_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_in_aac_armv5.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_in_aac_armv5.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_in_aac_armv6.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_in_aac_armv6.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_in_aac_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_in_aac_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_in_amr_armv5.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_in_amr_armv5.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_in_amr_armv6.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_in_amr_armv6.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_in_amr_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_in_amr_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_oc_ics.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_oc_ics.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_oc_jb.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_oc_jb.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_qcom_iomx.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_qcom_iomx.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_ttml.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_ttml.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_vpx_armv5.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_vpx_armv5.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_vpx_armv6.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_vpx_armv6.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_vpx_armv7.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_vpx_armv7.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcal_webvtt.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcal_webvtt.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexcralbody_mc_jb.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexcralbody_mc_jb.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexhlsaes128callbacks.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexhlsaes128callbacks.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexplayerengine.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexplayerengine.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexral_nw_ics.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexral_nw_ics.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexral_nw_jb.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexral_nw_jb.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexralbody_audio.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexralbody_audio.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_cu.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_cu.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_ec.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_ec.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_fr.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_fr.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_fr3.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_fr3.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_gb.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_gb.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_hc.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_hc.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_is.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_is.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_jb.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_jb.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_nw.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_nw.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_opengl.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexralbody_video_opengl.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexthumbnail.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexthumbnail.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libnexwvdrm.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libnexwvdrm.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libpiffplayreadydescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libpiffplayreadydescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libregisterdlapiexsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libregisterdlapiexsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libremotefileiosample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libremotefileiosample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libsmoothstreamfragmentdescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libsmoothstreamfragmentdescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/armeabi/libsmoothstreamplayreadydescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/armeabi/libsmoothstreamplayreadydescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libHLSAES128Descramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libHLSAES128Descramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libHLSAES128Descramblewithbyterangesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libHLSAES128Descramblewithbyterangesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libHttpRetrieveStoreDataCallbackSample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libHttpRetrieveStoreDataCallbackSample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libNexHTTPDownloaderSample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libNexHTTPDownloaderSample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libPDEnvelopHeaderParsingsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libPDEnvelopHeaderParsingsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libasfplayreadydescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libasfplayreadydescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libdeceuvdescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libdeceuvdescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libdrmsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libdrmsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libgethttpauthinfosample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libgethttpauthinfosample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libgetkeyextsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libgetkeyextsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libgetpdblocksample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libgetpdblocksample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libgetplaylistinfosample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libgetplaylistinfosample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libhlsissupportkey_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libhlsissupportkey_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libhlstsdescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libhlstsdescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libhlstsdescramblewithbyterange_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libhlstsdescramblewithbyterange_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libmpddescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libmpddescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexadaptation_layer_for_dlsdk.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexadaptation_layer_for_dlsdk.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexalfactory.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexalfactory.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexcal_3gpp_x86.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexcal_3gpp_x86.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexcal_aac_x86.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexcal_aac_x86.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexcal_closedcaption_x86.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexcal_closedcaption_x86.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexcal_h264_x86.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexcal_h264_x86.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexcal_hevc_x86.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexcal_hevc_x86.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexcal_in_aac_x86.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexcal_in_aac_x86.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexcal_oc_ics.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexcal_oc_ics.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexcal_oc_jb.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexcal_oc_jb.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexcal_ttml_x86.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexcal_ttml_x86.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexcal_vpx_x86.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexcal_vpx_x86.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexcal_webvtt_x86.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexcal_webvtt_x86.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexcralbody_mc_jb.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexcralbody_mc_jb.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexhlsaes128callbacks.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexhlsaes128callbacks.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexplayerengine.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexplayerengine.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexral_nw_ics.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexral_nw_ics.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexral_nw_jb.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexral_nw_jb.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexralbody_audio.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexralbody_audio.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexralbody_video_nw.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexralbody_video_nw.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexralbody_video_opengl.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexralbody_video_opengl.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexthumbnail.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexthumbnail.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libnexwvdrm.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libnexwvdrm.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libpiffplayreadydescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libpiffplayreadydescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libregisterdlapiexsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libregisterdlapiexsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libremotefileiosample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libremotefileiosample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libsmoothstreamfragmentdescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libsmoothstreamfragmentdescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86/libsmoothstreamplayreadydescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86/libsmoothstreamplayreadydescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libDASHDRMSessionsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libDASHDRMSessionsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libHLSAES128Descramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libHLSAES128Descramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libHLSAES128Descramblewithbyterangesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libHLSAES128Descramblewithbyterangesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libHttpRetrieveStoreDataCallbackSample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libHttpRetrieveStoreDataCallbackSample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libNexHTTPDownloaderSample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libNexHTTPDownloaderSample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libPDEnvelopHeaderParsingsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libPDEnvelopHeaderParsingsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libasfplayreadydescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libasfplayreadydescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libdeceuvdescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libdeceuvdescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libdrmsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libdrmsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libempcomm-combined.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libempcomm-combined.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libgethttpauthinfosample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libgethttpauthinfosample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libgetkeyextsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libgetkeyextsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libgetpdblocksample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libgetpdblocksample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libgetplaylistinfosample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libgetplaylistinfosample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libhlsissupportkey_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libhlsissupportkey_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libhlstsdescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libhlstsdescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libhlstsdescramblewithbyterange_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libhlstsdescramblewithbyterange_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libmpddescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libmpddescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexadaptation_layer_for_dlsdk.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexadaptation_layer_for_dlsdk.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexalfactory.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexalfactory.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexcal_3gpp_x86_64.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexcal_3gpp_x86_64.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexcal_aac_x86_64.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexcal_aac_x86_64.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexcal_amr_x86_64.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexcal_amr_x86_64.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexcal_amrwb_x86_64.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexcal_amrwb_x86_64.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexcal_closedcaption_x86_64.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexcal_closedcaption_x86_64.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexcal_divx_x86_64.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexcal_divx_x86_64.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexcal_h264_x86_64.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexcal_h264_x86_64.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexcal_hevc_x86_64.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexcal_hevc_x86_64.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexcal_in_aac_x86_64.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexcal_in_aac_x86_64.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexcal_in_amr_x86_64.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexcal_in_amr_x86_64.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexcal_ogg_x86_64.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexcal_ogg_x86_64.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexcal_ttml_x86_64.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexcal_ttml_x86_64.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexcal_vpx_x86_64.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexcal_vpx_x86_64.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexcal_webvtt_x86_64.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexcal_webvtt_x86_64.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexcralbody_mc_jb.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexcralbody_mc_jb.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexhlsaes128callbacks.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexhlsaes128callbacks.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexplayerengine.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexplayerengine.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexralbody_audio.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexralbody_audio.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexralbody_video_opengl.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexralbody_video_opengl.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexthumbnail.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexthumbnail.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libnexwvdrm.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libnexwvdrm.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libpiffplayreadydescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libpiffplayreadydescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libregisterdlapiexsample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libregisterdlapiexsample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libremotefileiosample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libremotefileiosample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libsmoothstreamfragmentdescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libsmoothstreamfragmentdescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/x86_64/libsmoothstreamplayreadydescramblesample_jni.so" beforeDir="false" afterPath="$PROJECT_DIR$/libs/x86_64/libsmoothstreamplayreadydescramblesample_jni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nexstreaming/multiviewapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nexstreaming/multiviewapp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nexstreaming/multiviewapp/PlayerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nexstreaming/multiviewapp/PlayerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nexstreaming/multiviewapp/player/NexVideoPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nexstreaming/multiviewapp/player/NexVideoPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/layout/activity_player.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/layout/activity_player.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/DummySurface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/DummySurface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/EGLSurfaceTexture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/EGLSurfaceTexture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/GLRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/GLRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/INexDRMLicenseListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/INexDRMLicenseListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexABRController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexABRController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexALFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexALFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionCEA708TextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionCEA708TextView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionPainter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionPainter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionPreview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionPreview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionRenderView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionRenderView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionRendererForTimedText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionRendererForTimedText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionRendererForWebVTT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionRendererForWebVTT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionTextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionTextView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionTimedTextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionTimedTextView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionWebVTTTextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionWebVTTTextView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionWindowRect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCaptionWindowRect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexClientManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexClientManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexClosedCaption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexClosedCaption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCodecInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCodecInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexContentInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexContentInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCustomAttribInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexCustomAttribInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexDateRangeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexDateRangeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexEIA708CaptionView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexEIA708CaptionView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexEIA708Struct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexEIA708Struct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexEmsgData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexEmsgData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexEventForwarder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexEventForwarder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexEventProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexEventProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexEventReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexEventReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexHTTPUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexHTTPUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexID3TagInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexID3TagInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexID3TagPicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexID3TagPicture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexID3TagText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexID3TagText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexLogStringQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexLogStringQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexLogsToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexLogsToFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexMediaDrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexMediaDrm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexMediaDrmSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexMediaDrmSession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexMediaDrmSessionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexMediaDrmSessionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexMediaPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexMediaPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexNetAddrTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexNetAddrTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexNetworkUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexNetworkUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexOfflineStoreController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexOfflineStoreController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexPictureTimingInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexPictureTimingInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexPlayerEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexPlayerEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexRecovery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexRecovery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexSessionData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexSessionData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexSettingDataForStoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexSettingDataForStoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexStatisticsMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexStatisticsMonitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexStoredInfoFileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexStoredInfoFileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexStreamInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexStreamInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexSurfaceTextureBinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexSurfaceTextureBinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexSurfaceTextureView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexSurfaceTextureView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexSystemInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexSystemInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexSystemUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexSystemUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexThumbnail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexThumbnail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexTrackInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexTrackInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexVSyncSampler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexVSyncSampler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexVideoRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexVideoRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexVideoView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexVideoView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexVideoViewFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexVideoViewFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexWVDRM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexWVDRM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexWVDRMSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/NexWVDRMSession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/gles/NexEglSurface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/gles/NexEglSurface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/gles/NexGLUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/gles/NexGLUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/gles/NexVideo2dProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/com/nexstreaming/nexplayerengine/gles/NexVideo2dProgram.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="8A3Y0EPNR" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lxr91hmKQRdILm6H9QDku13R7V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1618210182738" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="072b20fb-c3a7-47dc-98a7-7573866b40b8" name="Default Changelist" comment="" />
+      <created>1608549427659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608549427659</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="160" key="#app" timestamp="1615885717388">
+      <screen x="0" y="25" width="1920" height="998" />
+    </state>
+    <state x="653" y="160" key="#app/0.25.1920.998@0.25.1920.998" timestamp="1615885717388" />
+    <state width="1878" height="176" key="GridCell.Tab.0.bottom" timestamp="1615885730788">
+      <screen x="0" y="25" width="1920" height="998" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.bottom/0.25.1920.998/1920.25.1920.1055@0.25.1920.998" timestamp="1608551035973" />
+    <state width="1878" height="176" key="GridCell.Tab.0.bottom/0.25.1920.998@0.25.1920.998" timestamp="1615885730788" />
+    <state width="1878" height="176" key="GridCell.Tab.0.center" timestamp="1615885730788">
+      <screen x="0" y="25" width="1920" height="998" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.center/0.25.1920.998/1920.25.1920.1055@0.25.1920.998" timestamp="1608551035973" />
+    <state width="1878" height="176" key="GridCell.Tab.0.center/0.25.1920.998@0.25.1920.998" timestamp="1615885730788" />
+    <state width="1878" height="176" key="GridCell.Tab.0.left" timestamp="1615885730787">
+      <screen x="0" y="25" width="1920" height="998" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.left/0.25.1920.998/1920.25.1920.1055@0.25.1920.998" timestamp="1608551035972" />
+    <state width="1878" height="176" key="GridCell.Tab.0.left/0.25.1920.998@0.25.1920.998" timestamp="1615885730787" />
+    <state width="1878" height="176" key="GridCell.Tab.0.right" timestamp="1615885730788">
+      <screen x="0" y="25" width="1920" height="998" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.right/0.25.1920.998/1920.25.1920.1055@0.25.1920.998" timestamp="1608551035973" />
+    <state width="1878" height="176" key="GridCell.Tab.0.right/0.25.1920.998@0.25.1920.998" timestamp="1615885730788" />
+    <state x="630" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1616062774279">
+      <screen x="0" y="25" width="1920" height="998" />
+    </state>
+    <state x="630" y="353" key="com.intellij.ide.util.TipDialog/0.25.1920.998/1920.25.1920.1055@0.25.1920.998" timestamp="1608549431663" />
+    <state x="630" y="353" key="com.intellij.ide.util.TipDialog/0.25.1920.998@0.25.1920.998" timestamp="1616062774279" />
+  </component>
+</project>
