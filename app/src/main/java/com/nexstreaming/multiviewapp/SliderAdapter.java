@@ -71,9 +71,13 @@ public class SliderAdapter extends RecyclerView.Adapter<SliderAdapter.SliderView
             if(sliderItems.get(position).image.contains("data:image/jpeg;base64,")){
                 sliderItems.get(position).image = sliderItems.get(position).image.replace("data:image/jpeg;base64,","");
             }
-            byte[] decodedBytesImage = Base64.decode(sliderItems.get(position).image, Base64.DEFAULT);
-            Bitmap decodedBitmap = BitmapFactory.decodeByteArray(decodedBytesImage, 0, decodedBytesImage.length);
-            holder.imageView.setImageBitmap(decodedBitmap);
+            try {
+                byte[] decodedBytesImage = Base64.decode(sliderItems.get(position).image, Base64.DEFAULT);
+                Bitmap decodedBitmap = BitmapFactory.decodeByteArray(decodedBytesImage, 0, decodedBytesImage.length);
+                holder.imageView.setImageBitmap(decodedBitmap);
+            } catch (Exception e){
+                Log.e("error ni ken", "error na naman");
+            }
         }
         holder.txtStreamInfo.setText(sliderItems.get(position).info);
         holder.txtStreamTitle.setText(sliderItems.get(position).name);
