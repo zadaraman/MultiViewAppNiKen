@@ -98,6 +98,7 @@ public class SliderAdapter extends RecyclerView.Adapter<SliderAdapter.SliderView
                             String stream = "";
                             stream = streamView.get(i).url.replace("rtmp","http");
                             stream = stream.replace("LiveApp/", "LiveApp/streams/");
+                            stream = stream.replace("172.18.0.2", "192.168.1.213");
                             if(streamView.get(i).primary.equals("1")) {
                                 streamUrls.add(0,stream+".m3u8");
                             } else {
